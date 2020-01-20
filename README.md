@@ -1,3 +1,5 @@
+PVPred-SCM: Improved Prediction and Analysis of Phage Virion Proteins Using Scoring Card Method
+
 In this work, we developed a novel PVP predictor named PVPred-SCM which is an efficient and interpretable method 
 for predicting and analyzing PVPs. 
 
