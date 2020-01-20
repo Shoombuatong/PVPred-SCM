@@ -1,3 +1,6 @@
+In this work, we developed a novel PVP predictor named PVPred-SCM which is an efficient and interpretable method 
+for predicting and analyzing PVPs. 
+
 To make a fair comparison with existing methods [8-16], the same benchmark and independent datasets 
 derived from the work of [12] were taken to develop and validate the proposed model PVPred-SCM. 
 
