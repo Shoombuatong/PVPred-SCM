@@ -1,10 +1,8 @@
 In this work, we developed a novel PVP predictor named PVPred-SCM which is an efficient and interpretable method 
 for predicting and analyzing PVPs. 
 
-To make a fair comparison with existing methods [8-16], the same benchmark and independent datasets 
-derived from the work of [12] were taken to develop and validate the proposed model PVPred-SCM. 
-
-These two datasets were specifically used to develop PVP predictors for discriminating PVPs from non-PVPs. 
+The same benchmark and independent datasets derived from the work of [12] were taken to develop and validate 
+the proposed model PVPred-SCM for making a fair comparison with existing methods [8-16].
 
 In this study, the benchmark dataset consists of 99 PVPs (TR-positive.txt) and 208 non-PVPs (TR-negative.txt), 
 while the independent dataset consists of 30 PVPs (Ind-positive.txt) and 64 non-PVPs (Ind-negative.txt). 
